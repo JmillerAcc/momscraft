@@ -74,7 +74,7 @@ export const HeroParallax = ({
           className="text-4xl font-bold border bg-purple opacity-40 h-[200px] w-full rounded-xl text-center flex items-center justify-center text-black my-10 absolute top-[38%] left-1/2 transform -translate-x-1/2 -translate-y-1/2"
       >
       <div className="md:w-2/3 flex-wrap">
-        <h1 className="mb-4 text-white">" Joy will come in the morning "</h1>
+        <h1 className="mb-4 text-white">"Joy will come in the morning"</h1>
         <p className="text-black text-sm md:text-lg">
           Crafting brings <span className="text-white">joy</span> and <span className="text-white">peace</span> even in the toughest moments. Our recent projects reflect this mission, and we would love for you to join us in this journey. Take a look at our latest creations and find <span className="text-white">joy</span> in every imperfection.
         </p>
