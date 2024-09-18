@@ -1,6 +1,4 @@
 import React from "react";
-import { Sidebar, SidebarBody, SidebarLink } from "@/components/ui/Sidebar";
-import { IconBrandTabler, IconUserBolt, IconSettings, IconArrowLeft } from "@tabler/icons-react";
 import { links } from "@/data/links";
 import { Hero } from "@/components/Hero";
 import { FloatingNav } from "@/components/ui/floating-navbar";
