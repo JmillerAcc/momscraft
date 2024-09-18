@@ -71,12 +71,14 @@ export const HeroParallax = ({
       {/* New message */}
       <motion.div
         style={{ opacity: messageOpacity }}
-          className="text-4xl font-bold border bg-purple opacity-40 h-[200px] w-full rounded-xl text-center flex items-center justify-center text-black my-10 absolute top-[35%] left-1/2 transform -translate-x-1/2 -translate-y-1/2"
+          className="text-4xl font-bold border bg-purple opacity-40 h-[200px] w-full rounded-xl text-center flex items-center justify-center text-black my-10 absolute top-[38%] left-1/2 transform -translate-x-1/2 -translate-y-1/2"
       >
-       <div>
-        <h1 className="mb-4">Your <span className="text-white">Joy</span> inspires us to create!</h1>
-        <p className="text-black text-sm md:text-lg">A short list of recent projects we have been working on. We would love for you to our next inspiration.</p>
-       </div> 
+      <div className="md:w-2/3 flex-wrap">
+        <h1 className="mb-4 text-white">" Joy will come in the morning "</h1>
+        <p className="text-black text-sm md:text-lg">
+          Crafting brings <span className="text-white">joy</span> and <span className="text-white">peace</span> even in the toughest moments. Our recent projects reflect this mission, and we would love for you to join us in this journey. Take a look at our latest creations and find <span className="text-white">joy</span> in every imperfection.
+        </p>
+      </div>
       </motion.div>
 
       <motion.div
@@ -122,14 +124,14 @@ export const HeroParallax = ({
 
 export const Header = () => {
   return (
-    <div className="max-w-7xl relative mx-auto py-20 md:py-40 px-4 w-full left-0 top-0">
-      <h1 className="text-2xl md:text-7xl font-bold dark:text-white">
-        Welcome to Crafting <span className="text-purple flex-wrap">Joy</span> <br /> A Christian Community for Crafters
-      </h1>
-      <p className="max-w-2xl text-base md:text-xl mt-8 dark:text-neutral-200">
-        Inspired by God to create and bring <span className="text-purple">Joy</span> through our crafts. Our products are designed to spread happiness and reflect the divine inspiration that guides us in every creation.
-      </p>
-    </div>
+   <div className="max-w-7xl relative mx-auto py-20 md:py-40 px-4 w-full left-0 top-0">
+  <h1 className="text-2xl md:text-7xl font-bold dark:text-white">
+    Welcome to Crafting <span className="text-purple flex-wrap">Joy</span> <br /> A <span className="text-purple">Christian</span> Community for finding <span className="text-purple">joy </span>in the midst of <span className="text-purple">pain</span>.
+  </h1>
+  <p className="max-w-2xl text-base md:text-xl mt-8 dark:text-neutral-200">
+    Crafting has the power to bring <span className="text-purple font-bold">joy</span> and <span className="text-purple font-bold">peace</span> even in the toughest moments. Through the act of creating, we find solace and a sense of accomplishment that helps us navigate through life's challenges. Our community is dedicated to supporting each other in this journey, finding <span className="text-purple font-bold">joy</span> in every creation while spreading the <span className="text-purple font-bold">Gospel</span>.
+  </p>
+</div>
   );
 };
 
