@@ -129,7 +129,7 @@ export const Header = () => {
     Welcome to Crafting <span className="text-purple flex-wrap">Joy</span> <br /> A <span className="text-purple">Christian</span> Community for finding <span className="text-purple">joy </span>in the midst of <span className="text-purple">pain</span>.
   </h1>
   <p className="max-w-2xl text-base md:text-xl mt-8 dark:text-neutral-200">
-    Crafting has the power to bring <span className="text-purple font-bold">joy</span> and <span className="text-purple font-bold">peace</span> even in the toughest moments. Through the act of creating, we find solace and a sense of accomplishment that helps us navigate through life's challenges. Our community is dedicated to supporting each other in this journey, finding <span className="text-purple font-bold">joy</span> in every creation while spreading the <span className="text-purple font-bold">Gospel</span>.
+    Crafting has the power to bring <span className="text-purple font-bold">joy</span> and <span className="text-purple font-bold">peace</span> even in the toughest moments. Through the act of creating, we find solace and a sense of accomplishment that helps us navigate through life&apos;s challenges. Our community is dedicated to supporting each other in this journey, finding <span className="text-purple font-bold">joy</span> in every creation while spreading the <span className="text-purple font-bold">Gospel</span>.
   </p>
 </div>
   );
