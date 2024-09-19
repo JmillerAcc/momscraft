@@ -13,62 +13,62 @@ export const products = [
   
   {
     title: "Pumpkin White",
-    link: "https://algochurn.com",
+    link: "#donate",
     thumbnail:
       "/lightpumpkin.jpg",
   },
   {
     title: "Dark Pumpkin",
-    link: "https://ui.aceternity.com",
+    link: "#donate",
     thumbnail:
       "/darkpumpkin.jpg",
   },
   {
     title: "Faith & Fears",
-    link: "https://tailwindmasterkit.com",
+    link: "#donate",
     thumbnail:
       "/faithFears.jpg",
   },
   {
     title: "Welcome Sign",
-    link: "https://smartbridgetech.com",
+    link: "#donate",
     thumbnail:
       "/welcome.jpg",
   },
   {
     title: "Reefs",
-    link: "https://renderwork.studio",
+    link: "#donate",
     thumbnail:
       "/Reefs.jpg",
   },
 
   {
     title: "Jack o Lanterns",
-    link: "https://cremedigital.com",
+    link: "#donate",
     thumbnail:
       "/jacko.jpg",
   },
   {
     title: "Out Door Decor",
-    link: "https://goldenbellsacademy.com",
+    link: "#donate",
     thumbnail:
       "/outdoors.jpg",
   },
   {
     title: "Scare Crows",
-    link: "https://invoker.lol",
+    link: "#donate",
     thumbnail:
       "/scarecrow.jpg",
   },
   {
     title: "More Outdoor Decor",
-    link: "https://efreeinvoice.com",
+    link: "#donate",
     thumbnail:
       "/outdoors.jpg",
   },
    {
     title: "Reefs",
-    link: "https://renderwork.studio",
+    link: "#donate",
     thumbnail:
       "/Reefs.jpg",
   },
