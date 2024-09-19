@@ -17,7 +17,7 @@ const CommunityAction = () => {
             </div>
 
         </div>
-            <div className='mt-5 opacity-90' id='projects'>
+            <div className='mt-5 ' id='projects'>
                 <ExpandableCardDemo />
             </div>   
     </div>
