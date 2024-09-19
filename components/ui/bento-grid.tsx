@@ -42,12 +42,6 @@ export const BentoGridItem = ({
   spareImg: string;
 }) => {
 
-  const [copied, setCopied] = useState(false);
-
-  const handleCopy = () => {
-    navigator.clipboard.writeText('jmiller@accuridecorp.com')
-    setCopied(true);
-  };
 
  const handleEmailDonate = () => {
   window.location.href = 'mailto:lavonne0422@gmail.com?subject=I%20Wish%20to%20Donate&body=Hello%20Lavonne%2C%0A%0AI%20am%20interested%20in%20donating%20to%20Crafting%20Joy.%20Please%20let%20me%20know%20how%20I%20can%20help.%0A%0AThank%20you%2C';
