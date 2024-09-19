@@ -15,10 +15,11 @@ const CommunityAction = () => {
             </div>
             <div>
             </div>
+
+        </div>
             <div className='mt-5 opacity-90' id='projects'>
                 <ExpandableCardDemo />
             </div>   
-        </div>
     </div>
   )
 }
