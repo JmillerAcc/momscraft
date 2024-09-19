@@ -9,7 +9,7 @@ import { About } from "@/components/About";
 
 export default function Home(){
   return (
-    <div className="flex h-screen px-10">
+    <div className="flex h-screen px-10 max-w-7xl">
      <FloatingNav navItems={navItems}/>
       <div className="flex-col md:flex-row max-w-7xl justify-center items-center">
         <div className="w-[90vw] md:ml-[40px] -ml-[20px]">

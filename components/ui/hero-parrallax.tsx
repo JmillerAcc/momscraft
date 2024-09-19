@@ -71,7 +71,7 @@ export const HeroParallax = ({
       {/* New message */}
       <motion.div
         style={{ opacity: messageOpacity }}
-          className="text-4xl font-bold border bg-purple opacity-40 h-[200px] w-full rounded-xl text-center flex items-center justify-center text-black my-10 absolute top-[38%] left-1/2 transform -translate-x-1/2 -translate-y-1/2"
+          className="text-4xl font-bold border bg-purple opacity-40 h-[200px] w-full rounded-xl text-center flex items-center justify-center text-black my-10 absolute lg:top-[40%] md:top-[48%] top-[800px] left-1/2 transform -translate-x-1/2 -translate-y-1/2"
       >
       <div className="md:w-2/3 flex-wrap">
           <h1 className="mb-4 text-white">&quot;Joy will come in the morning&quot;</h1>

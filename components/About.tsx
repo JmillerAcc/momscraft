@@ -5,7 +5,7 @@ import { WobbleCard } from "./ui/wobble-card";
 
 export function About() {
   return (
-    <div className="-mt-[200px] mb-10" id="about">
+    <div className="md:-mt-[200px] mt-[19%] mb-10" id="about">
         <h1 className="text-center mb-14 text-3xl font-bold tracking-widest">A few things about the lady behind it all</h1>
 
        <div className="grid grid-cols-1 lg:grid-cols-3 gap-4  mx-auto w-full ">
