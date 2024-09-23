@@ -11,7 +11,7 @@ import ContactUs from "@/components/ContactUs";
 
 export default function Home(){
   return (
-    <div className="flex h-screen px-10 max-w-7xl">
+    <div className="flex h-screen px-10 max-w-7xl max-h-lvh">
      <FloatingNav navItems={navItems}/>
       <div className="flex-col md:flex-row max-w-7xl justify-center items-center">
         <div className="w-[90vw] md:ml-[40px] -ml-[20px] realtive mb-40">
